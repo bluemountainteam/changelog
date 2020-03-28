@@ -18,7 +18,7 @@ You will have user_id, model context, id of model event, information of data mod
 
 In your project base directory run
 
-    composer require "dlouvard/laravel-laravel-changelog":"master@dev"
+    composer require "bluemountainteam/laravel-laravel-changelog":"master@dev"
     
 To bring up the config file run, if you want to customize
 
